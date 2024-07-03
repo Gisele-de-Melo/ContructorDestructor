@@ -1,4 +1,4 @@
-# ContructorDestructor
+# Construtores e Destrutores / Contructor and Destructor
 - Example of creating and using constructors and destructors in Delphi.
 - Exemplo de criação e uso de construtores e destrutores em Delphi.
 
